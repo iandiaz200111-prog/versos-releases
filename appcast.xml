@@ -5,6 +5,15 @@
     <description>Actualizaciones de Versos</description>
     <language>es</language>
     <item>
+      <title>Versos 1.2</title>
+      <pubDate>Sun, 16 Aug 2026 02:46:52 +0000</pubDate>
+      <sparkle:version>1.2</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>La vista previa se mueve al cuadro donde aparecerá el texto. Probar reinicia la animación. Las cajas se ajustan desde cualquier orilla o esquina.</description>
+      <enclosure url="https://github.com/iandiaz200111-prog/versos-releases/releases/download/v1.2/Versos-1.2.zip" length="21070223" type="application/octet-stream" sparkle:edSignature="cwL9hd041havW4mzboPXQ2i+WvWa/PYaUiFUl5VhJ9CcweUqCO00OAECbRSNb+9/pxhNNe9BLOY5j87ccTbRCg==" />
+    </item>
+    <item>
       <title>Versos 1.1</title>
       <pubDate>Sun, 16 Aug 2026 02:27:58 +0000</pubDate>
       <sparkle:version>1.1</sparkle:version>
