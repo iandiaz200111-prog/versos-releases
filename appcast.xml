@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Versos</title>
+    <description>Actualizaciones de Versos</description>
+    <language>es</language>
+    <item>
+      <title>Versos 1.1</title>
+      <pubDate>Sun, 16 Aug 2026 02:27:58 +0000</pubDate>
+      <sparkle:version>1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Primera versión con actualizaciones automáticas</description>
+      <enclosure url="https://github.com/iandiaz200111-prog/versos-releases/releases/download/v1.1/Versos-1.1.zip" length="21063059" type="application/octet-stream" sparkle:edSignature="Alfufk8GuaTuyKrKnXeNaR1SJf1s+Qu+tHvLpLqIa5CV3+RkuJNHJFdgYeAI91Ptt6YmNIxnkqdiPYTjJ8CYDw==" />
+    </item>
+  </channel>
+</rss>
