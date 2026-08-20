@@ -5,6 +5,15 @@
     <description>Actualizaciones de Versos</description>
     <language>es</language>
     <item>
+      <title>Versos 1.6</title>
+      <pubDate>Thu, 20 Aug 2026 02:41:00 +0000</pubDate>
+      <sparkle:version>1.6</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Diseño ahora dice qué servicio estás editando. Los números de versículo tienen tamaño y color propios. La referencia sigue al versículo al pasar del que buscaste.</description>
+      <enclosure url="https://github.com/iandiaz200111-prog/versos-releases/releases/download/v1.6/Versos-1.6.zip" length="21088893" type="application/octet-stream" sparkle:edSignature="by2EBcSrravoXVvnuBKKjf98NEBv9oQqKhcUtsGXHAvXZGXCDj0LwhYTX6oLBFRT3lRZl0yp8iWhnMlmRgiODg==" />
+    </item>
+    <item>
       <title>Versos 1.5</title>
       <pubDate>Sun, 16 Aug 2026 03:25:26 +0000</pubDate>
       <sparkle:version>1.5</sparkle:version>
